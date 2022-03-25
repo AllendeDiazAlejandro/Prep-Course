@@ -1,0 +1,5 @@
+una variable es cualquier entidad,valor o cantidad que cambia
+un string es un bloque de texto 
+las funciones en codigo son objetos llamables osea podemos convocarlo en cualquier momento con un argunmento devolviendolo con un return
+el argunmento if lo utilizamos para preguntar si dicho argumento es valido o no le daremos una funcion para relaizar
+los valores boobleanos son aquellos cuales les podemos decir verdadero o falso por ejemplo 100 es mayor a 50 es verdadero 
